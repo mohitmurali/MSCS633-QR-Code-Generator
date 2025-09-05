@@ -1,0 +1,9 @@
+# Include the main Python script
+include qr_code.py
+
+# Include README and license files if you have them
+include README.md
+include LICENSE
+
+# Include images folder if you have screenshots
+recursive-include images *
