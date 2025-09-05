@@ -1,5 +1,3 @@
-# MSCS633-QR-Code-Generator
-
 # AI QR Code Generator
 
 ## Overview
