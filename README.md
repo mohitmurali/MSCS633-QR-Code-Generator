@@ -3,7 +3,7 @@
 ## Overview
 This is a Python application that generates a QR code from a given URL. A QR Code (Quick Response Code), invented in 1994 by Denso Wave in Japan, is a two-dimensional code that allows information to be stored and read by machines.
 
-This project was developed as part of **Hands-On Assignment 2** for generating QR codes at **Biox Systems**.
+This project was developed as part of **Hands-On Assignment 2** for generating QR codes to redirect to **Biox Systems**.
 
 ---
 
